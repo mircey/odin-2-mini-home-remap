@@ -1,0 +1,6 @@
+id=o2m_home_remap
+name=Odin 2 Mini Home Remap
+version=1.0
+versionCode=1
+author=mircey
+description=Remaps the physical home button to the GUIDE key code, which is otherwise completely unused on the handheld. GUIDE can then be caught by Key Mapper, Button Mapper, Tasker, etcetera.
