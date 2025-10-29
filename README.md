@@ -2,7 +2,7 @@
 Magisk module that remaps the physical home button to the `GUIDE` key code, which is otherwise completely unused on the handheld. `GUIDE` can then be caught by Key Mapper, Button Mapper, Tasker, etcetera.
 
 # Usage
-1. Download the module here
+1. Download the module [here](https://github.com/mircey/odin-2-mini-home-remap/releases/download/1.0/odin-2-mini-home-remap-1.0.zip)
 2. Install it to Magisk via `Modules->Install from storage`, then selecting the zip
 3. Reboot the device
 4. Launch the android settings app and turn off `Odin settings->Prevent press the Home button accidentally`
